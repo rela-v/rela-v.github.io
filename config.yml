@@ -1,26 +1,20 @@
-baseURL: https://example.com/
+baseURL: https://rela-v.github.io/
 languageCode: en-us
-title: Author Name
+title: rela.v
 theme: "PaperMod"
 
 params:
     homeInfoParams:
-        Title: Hello World 👋
-        Content: This is a sample hugo template
+        Title: rela.v's digital graden
+        Content: rela.v's digital garden
 
     socialIcons: # optional
         - name: "github"
-          url: "https://github.com/sawhney17"
-        - name: "youtube"
-          url: "https://www.youtube.com/channel/UCjMJeOCEAG2XFtd9JvZwomw"
-        - name: "twitter"
-          url: "https://twitter.com/aryansawhney17"
+          url: "https://github.com/rela-v"
         - name: "kofi" 
-          url: "https://buymeacoffee.com/sawhney17"
-        - name: "rss"
-          url: "https://aryansawhney.com/index.xml"
+          url: "https://buymeacoffee.com/rela.v"
     ShowReadingTime: true
-    author: "One Nice Person"
+    author: "rela.v"
 
 outputs:
     home:
